@@ -1,0 +1,11 @@
+body{
+	background-image: url("background.png");
+}
+p {
+	font-family: 'Century Gothic', CenturyGothic;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 20px;
+}
+
+
